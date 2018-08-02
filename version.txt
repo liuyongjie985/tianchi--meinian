@@ -1,0 +1,10 @@
+操作系统:
+    ubuntu 16.04
+编译器:
+    python 2.7
+python包:
+    numpy 1.14.0
+    pandas 0.22.0
+    lightgbm 2.1.0
+    xgboost 0.71
+    sklearn 0.0
